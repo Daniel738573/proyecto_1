@@ -1,2 +1,2 @@
 #Mi primer proyecto
-Actualizado desde la intefaz de Github
+Actualizado desde la interfaz web de Github
